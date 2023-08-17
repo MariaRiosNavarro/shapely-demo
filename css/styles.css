@@ -70,7 +70,7 @@ nav ul li a:hover {
   justify-content: center;
   align-items: center;
   color: whitesmoke;
-  background: url(/assets/img/wave1.png) no-repeat center;
+  background: url(../assets/img/wave1.png) no-repeat center;
   background-size: cover;
   height: 1009px;
   gap: 25px;
